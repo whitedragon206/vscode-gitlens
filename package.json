@@ -12524,7 +12524,7 @@
 		"@gitkraken/gitkraken-components": "1.0.0-rc.28",
 		"@microsoft/fast-element": "1.10.5",
 		"@microsoft/fast-react-wrapper": "0.3.14",
-		"@octokit/core": "4.0.5",
+		"@octokit/core": "6.1.4",
 		"@vscode/codicons": "0.0.32",
 		"@vscode/webview-ui-toolkit": "1.1.0",
 		"ansi-regex": "6.0.1",
